@@ -13,6 +13,7 @@ ________________________________________________________________________________
 - Please ensure that "Keymail.ico" is located in the same folder as "SoulCypher.exe".
 _____________________________________________________________________________________________________________________________
 ![image](https://github.com/iJCLEE/SoulCypher/assets/61095429/6fffc1da-6532-4f9b-9fdb-b14db6fd0085)
+
 1./> To encrypt a message, simply press the "SEAL YOUR SOUL >>>" button after you have written a message in the "[ INSERT YOUR SOUL ]" box.
 
 _____________________________________________________________________________________________________________________________
@@ -24,6 +25,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________
 ![image](https://github.com/iJCLEE/SoulCypher/assets/61095429/656beadb-2adb-417e-9097-ec9065bddec9)
+
 3./> To read decrypted text, simply press the "<<< UNLOCK YOUR SOUL" button after placing the encrypted text in the "[ INSERT YOUR SEALED SOUL ]" box.
 
 _____________________________________________________________________________________________________________________________
