@@ -18,6 +18,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________
 ![image](https://github.com/iJCLEE/SoulCypher/assets/61095429/0ce7c245-f224-499e-8881-f4be79640270)
+
 2./> Encrypted/Decrypted message can be easily copied by either:
 - Double-clicking anywhere inside the box.
 - Clicking once and pressing (Ctrl + A) followed by (Ctrl + C).
