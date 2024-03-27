@@ -30,5 +30,10 @@ ________________________________________________________________________________
 3./> To read decrypted text, simply press the "<<< UNLOCK YOUR SOUL" button after placing the encrypted text in the "[ INSERT YOUR SEALED SOUL ]" box.
 
 _____________________________________________________________________________________________________________________________
+![image](https://github.com/iJCLEE/SoulCypher/assets/61095429/c3f54e24-8213-4a00-81b9-d539f6ac5c7f)
+
+4./> No text limits.
+
+_____________________________________________________________________________________________________________________________
 That's it!
 - Enjoy!
