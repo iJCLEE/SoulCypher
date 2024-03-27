@@ -1,6 +1,6 @@
-./> "SoulCypher" is my creation, an Encryption / Decryption translator.
+./> "Soul Cypher" is my creation, an Encryption / Decryption translator.
 
-- Q: Why is it called SoulCypher?
+- Q: Why is it called Soul Cypher?
 - A: In spiritual terms; Open souls are readable, while sealed souls are unreadable.
 - Therefore, I designed this tool as both an art piece and a Encryption / Decryption translator.
 _____________________________________________________________________________________________________________________________
