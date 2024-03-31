@@ -14,7 +14,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________
 ![image](https://github.com/iJCLEE/SoulCypher/assets/61095429/6fffc1da-6532-4f9b-9fdb-b14db6fd0085)
 
-1./> To encrypt a message, simply press the "SEAL YOUR SOUL >>>" button after you have written a message in the "[ INSERT YOUR SOUL ]" box.
+1./> To encrypt a message, simply click the "SEAL YOUR SOUL >>>" button after you have written a message in the "[ INSERT YOUR SOUL ]" box.
 
 _____________________________________________________________________________________________________________________________
 ![image](https://github.com/iJCLEE/SoulCypher/assets/61095429/0ce7c245-f224-499e-8881-f4be79640270)
@@ -27,12 +27,12 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________
 ![image](https://github.com/iJCLEE/SoulCypher/assets/61095429/656beadb-2adb-417e-9097-ec9065bddec9)
 
-3./> To read decrypted text, simply press the "<<< UNLOCK YOUR SOUL" button after placing the encrypted text in the "[ INSERT YOUR SEALED SOUL ]" box.
+3./> To read decrypted text, simply click the "<<< UNLOCK YOUR SOUL" button after placing the encrypted text in the "[ INSERT YOUR SEALED SOUL ]" box.
 
 _____________________________________________________________________________________________________________________________
 ![image](https://github.com/iJCLEE/SoulCypher/assets/61095429/c3f54e24-8213-4a00-81b9-d539f6ac5c7f)
 
-4./> No text limits.
+4./> No text limit.
 
 _____________________________________________________________________________________________________________________________
 That's it!
